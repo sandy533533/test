@@ -1,6 +1,6 @@
 # test
 learn and test
 
-fisrt txt
+first txt
 
 main txt
